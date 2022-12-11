@@ -1,0 +1,52 @@
+.myBG {
+    height: 100vh;
+    background: url("../Assets/IMAGES/Bg/Cinema.jpg");
+    background-size: cover;
+}
+
+.intro{
+    height: 350px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    text-align: center;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+}
+
+.trending {
+    height: auto;
+    background: url("https://wallpaperaccess.com/full/3075937.jpg");
+    background-size: cover;
+}
+
+.movieWrapper{
+
+}
+
+.movieIMAGES{
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Images{
+    height: 500px;
+}
+
+.trendingtitle {
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+
+.superhero {
+    height: auto;
+    background: url("https://images8.alphacoders.com/121/thumb-1920-1214264.jpg");
+    background-size: cover;
+}
